@@ -8,7 +8,7 @@ Sebuah backend API sederhana untuk mengelola data komponen PC (CPU, GPU, RAM, dl
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/wahyush04/django-app.git
 cd repo-name
 ```
 
